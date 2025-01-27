@@ -5,7 +5,7 @@ Getting Started
 To run this project locally, follow the steps below for both the frontend and backend.
 
 Step 1: Clone the Repository
-git clone <repository-url>
+git clone https://github.com/harshitmasiwal/React-perfume-shop.git
 cd the-perfume-co
 
 Step 2: Set up the Backend
