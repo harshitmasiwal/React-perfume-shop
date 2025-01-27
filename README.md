@@ -38,3 +38,7 @@ If you encounter any issues with the backend, ensure that your MongoDB server is
 If the frontend does not load correctly, check that the backend is running and reachable.
 
 anything doesnt work then contact at harshit10.nvm@gmail.com 
+![1000058491](https://github.com/user-attachments/assets/10fa00b7-205b-4d7d-bdb9-f6ec569b6c4e)
+![1000058490](https://github.com/user-attachments/assets/1f0b541c-ddc1-4889-ab5f-c2f847e7636a)
+![1000058489](https://github.com/user-attachments/assets/a166e829-c5ad-410a-91d2-b3f70f9e3468)
+![1000058488](https://github.com/user-attachments/assets/933ef8b6-6c44-48d1-90df-fc756d876210)
